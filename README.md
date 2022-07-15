@@ -1,1 +1,1 @@
-# example1-apps
+# аналитика данных PYTHON
